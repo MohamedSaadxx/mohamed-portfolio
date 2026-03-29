@@ -17,8 +17,7 @@
     "jsx": "react-jsx",
     "strict": false,
     "noUnusedLocals": false,
-    "noUnusedParameters": false,
-    "noFallthroughCasesInSwitch": false
+    "noUnusedParameters": false
   },
   "include": ["src/**/*"]
 }
